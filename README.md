@@ -5,9 +5,8 @@
 - 🚨 QA oriented: always finding a way to reassure my code is clean, secure and effective;
 - 🎧 electronic music producer/dj dev! (exactly, I LOVE to use my free time to produce music and DJ for some people or just myself!)
 
-<div style="width: 50%" align="center">
-  <img style="width: 100%"  src="https://c.tenor.com/APAoWgAqNxkAAAAd/tenor.gif"/>
-</div>
+![tenor](https://github.com/humbertodossantos/humbertodossantos/assets/71343789/5a1555e6-53e5-4883-8ea8-5ce521a82f67)
+
 
 <div align="center">
   <a href="https://github.com/humbertodossantos" target="_blank">
