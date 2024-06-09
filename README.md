@@ -1,9 +1,7 @@
 ### Hi, my name is Humberto! ✨
 
-- 😄 pronouns: he/him!
 - 💻 technology enthusiast: learning whatever picks my interest, like Golang, C#, DataFlex and its related frameworks;
 - 🚨 QA oriented: always finding a way to reassure my code is clean, secure and effective;
-- 🎧 electronic music producer/dj dev! (exactly, I LOVE to use my free time to produce music and DJ for some people or just myself!)
 
 ![tenor](https://github.com/humbertodossantos/humbertodossantos/assets/71343789/5a1555e6-53e5-4883-8ea8-5ce521a82f67)
 
